@@ -7,8 +7,15 @@
 <body>
     <header>
     <h1>Hello World Tutoring</h1>
-    
     </header>
+    
+    <div>
+        <ul>
+            <li>About Us</li>
+            <li>Contact Us</li>
+        </ul>
+    
+    </div>
   
 <footer>
 </footer>
