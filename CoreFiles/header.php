@@ -7,11 +7,11 @@
         <div>
         <ul class="nav nav-tabs" role="tablist">
             <li><a href="home.php">Home</a></li>
-            <li><a href="home.php">Services</a></li>
-            <li><a href="home.php">About Us</a></li>
-            <li><a href="home.php">Projects</a></li>
-            <li><a href="home.php">Pricing</a></li>
-            <li><a href="home.php">Contact</a></li>
+            <li><a href="services.php">Services</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="projects.php">Projects</a></li>
+            <li><a href="pricing.php">Pricing</a></li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
         </div>
     </nav>
